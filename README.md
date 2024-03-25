@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Bisht</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
-<img align="right" alt="coding" src="https://i.postimg.cc/q7kp98B5/213875785-400ae517-156b-4aca-a787-bac75d84c393-ezgif-com-resize-2.gif">
+<img align="right" alt="coding" src="https://i.postimg.cc/4NNbN0Lf/213875785-400ae517-156b-4aca-a787-bac75d84c393-ezgif-com-resize.gif">
 
 <p align="left">  <img width="150" src="https://komarev.com/ghpvc/?username=devbisht12&label=Profile%20views&color=0e75b6&style=flat" alt="devbisht12" /> </p>
 
@@ -11,7 +11,12 @@
 - 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **rahulsinghbisht125@gmail.com**
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@rahulbisht6486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahulbisht6486" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul bisht" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul_bisht_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_bisht_" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 </p>
