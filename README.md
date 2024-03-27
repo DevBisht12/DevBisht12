@@ -27,6 +27,4 @@
 <div style="display: flex; flex-wrap: wrap; width: 300px;" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbisht12&show_icons=true&locale=en&layout=compact" alt="devbisht12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devbisht12&show_icons=true&locale=en" alt="devbisht12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devbisht12&" alt="devbisht12" /></p></div>
